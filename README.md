@@ -11,6 +11,7 @@ To predict the input review as fake or not the following models have been consid
 1. Multinominal Naive Bayes
 2. Support Vector Machine
 3. Logistic Regression
+   
 To identify the source of the review whether it is Ai generated or Human generated the following models have been considered
 1. Logistic Regression
 2. K Nearest Neighbors
